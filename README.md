@@ -23,3 +23,13 @@ public final class ClassWow {
 	}
 
 }
+package configuration;
+
+public class RunTestApp {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("i wanna work with someone");
+	}
+}
+
